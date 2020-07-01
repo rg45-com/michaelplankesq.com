@@ -76,9 +76,6 @@ $(function () {
             }
         }
     });
-
-
-
 //smooth scroll
     smoothScroll.init({
         selector: '[data-scroll]', // Selector for links (must be a class, ID, data attribute, or element tag)
